@@ -13,7 +13,7 @@ plugins:
 
 # Just the Docs 설정
 just_the_docs:
-  # 메뉴 관련 설정
+  # Navigation 설정
   navigation:
     - text: "홈"
       url: "/"
@@ -23,12 +23,12 @@ just_the_docs:
       children:
         - text: "시작하기"
           url: "/docs/getting-started/"
-    - text: "회의록"
-      children:
         - text: "회의록"
-          url: "/docs/miuntes/"
-    - text: "블로그"
-      url: "/blog/"
+          children:
+            - text: "회의록 1"
+              url: "/docs/minutes/24-12-19/"
+            - text: "회의록 2"
+              url: "/docs/minutes/24-12-20/"
   
   # 검색 설정
   search:
