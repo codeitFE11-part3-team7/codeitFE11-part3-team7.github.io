@@ -23,6 +23,10 @@ just_the_docs:
       children:
         - text: "시작하기"
           url: "/docs/getting-started/"
+    - text: "회의록"
+      children:
+        - text: "회의록"
+          url: "/docs/miuntes/"
     - text: "블로그"
       url: "/blog/"
   
