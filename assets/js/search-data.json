@@ -2,56 +2,56 @@
     "doc": "팀 소개",
     "title": "팀 소개",
     "content": "우리 팀은 … . ",
-    "url": "/docs/team/",
+    "url": "/codeitFE11-part3-team7.github.io/docs/team/",
     
     "relUrl": "/docs/team/"
   },"1": {
     "doc": "팀 소개",
     "title": "스타팅 문서",
     "content": "시작 . ",
-    "url": "/docs/getting-started/#%EC%8A%A4%ED%83%80%ED%8C%85-%EB%AC%B8%EC%84%9C",
+    "url": "/codeitFE11-part3-team7.github.io/docs/getting-started/#%EC%8A%A4%ED%83%80%ED%8C%85-%EB%AC%B8%EC%84%9C",
     
     "relUrl": "/docs/getting-started/#스타팅-문서"
   },"2": {
     "doc": "팀 소개",
     "title": "팀 소개",
     "content": " ",
-    "url": "/docs/getting-started/",
+    "url": "/codeitFE11-part3-team7.github.io/docs/getting-started/",
     
     "relUrl": "/docs/getting-started/"
   },"3": {
     "doc": "회의록 메인",
     "title": "회의록 메인",
     "content": ". | 일간 회의를 기록하는 곳 | . ",
-    "url": "/docs/minutes/",
+    "url": "/codeitFE11-part3-team7.github.io/docs/minutes/",
     
     "relUrl": "/docs/minutes/"
   },"4": {
     "doc": "홈",
     "title": "환영합니다!",
     "content": "이곳은 팀의 협업 공간입니다. 문서를 추가하고 내용을 업데이트하세요. ",
-    "url": "/#%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4",
+    "url": "/codeitFE11-part3-team7.github.io/#%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4",
     
     "relUrl": "/#환영합니다"
   },"5": {
     "doc": "홈",
     "title": "홈",
     "content": " ",
-    "url": "/",
+    "url": "/codeitFE11-part3-team7.github.io/",
     
     "relUrl": "/"
   },"6": {
     "doc": "24-12-19",
     "title": "24-12-19",
     "content": "회의 주제 : 진행 현황 및 계획 공유 참석자 : 7팀 전원 *** . | 이름 | 작업 완료 | 작업 예정 | . | 김예도 | 위키 페이지 API제외 마무리 단계 | 위키 페이지 API 작업 개발기간 완료 후 1일~2일 추가 소요될 예정 | . | 김태훈 | 모달 수정 | 예도님과 모달 API 관련 논의 예정,프로필 화면 작업 | . | 민지이 | 로그인, 회원가입 페이지 UI | 로그인 API,회원가입 API,계정 설정 페이지 | . | 양정화 | 자유 게시판 PR대기중 (스타일작업 완료) | 자유 게시판 API,자유 게시판 상세페이지 (스타일 작업, API작업) | . | 이학수 | 게시물 등록 PR대기중 | 위키목록 페이지 | . | ESLint 규칙추가함 : 이미지 태그 사용, 사용하지 않는 변수명 사용시, Tailwind에 없는 클래스/네이밍 사용시, useEffect 의존성배열 누락, 문법오류 발생, 이미지 태그 alt값 누락시 에러를 띄워주는 규칙 . | 편의기능 추가 : tamo 옵션 추가 (태블릿과 모바일이 동일한 스타일 값을 가지고 있을때 사용) . | . ``` screens: { mo: { max: ‘743px’ }, ta: { min: ‘744px’, max: ‘1023px’ }, pc: { min: ‘1024px’ }, tamo: { max: ‘1024px’ }, }, . ",
-    "url": "/docs/minutes/m-241219.html",
+    "url": "/codeitFE11-part3-team7.github.io/docs/minutes/m-241219.html",
     
     "relUrl": "/docs/minutes/m-241219.html"
   },"7": {
     "doc": "24-12-20",
     "title": "24-12-20",
     "content": "회의 주제 : 진행 현황 및 계획 공유 참석자 : 7팀 전원 *** . | 이름 | 작업 완료 | 작업 예정 | . | 김예도 | 모달 작업중 | 위키 페이지 API 작업 개발기간 완료 후 1일~2일 추가 소요될 예정 | . | 김태훈 | 프로필 수정화면 작업중 | 모달 PR 반영, 모달 에러나는 부분 수정(예도님 요청) | . | 민지이 | 로그인 API,회원가입 API,계정 설정 페이지 UI | 계정 설정 페이지 API | . | 양정화 | 자유 게시판 API 테스트완료 | 게시글 상세페이지 (본문,스타일링,수정/삭제 기능 마무리 예정) , 위키 페이지 API (예도님 작업) | . | 이학수 | 위키목록 페이지 | 위키목록 페이지 마무리, 위키목록 페이지 API연결, 게시판 글쓰기 API | . | 상단 해더 메뉴 항목을 동적으로 변경하는 구현 방안 : accessToken 여부를 기반으로 메뉴를 렌더링하는 방법 사용하기로 함 | . ",
-    "url": "/docs/minutes/m-241220.html",
+    "url": "/codeitFE11-part3-team7.github.io/docs/minutes/m-241220.html",
     
     "relUrl": "/docs/minutes/m-241220.html"
   }
