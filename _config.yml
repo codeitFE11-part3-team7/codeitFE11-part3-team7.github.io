@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: 코드잇 FE 11기 7팀
 description: 코드잇 FE 11기 7팀 협업 페이지
+markdown: kramdown
