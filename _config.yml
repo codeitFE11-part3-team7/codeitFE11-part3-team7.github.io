@@ -1,7 +1,7 @@
 title: FE11 7팀
 description: GitHub Pages와 Just the Docs를 이용한 팀 협업 공간
 markdown: kramdown
-baseurl: ""
+baseurl: "/codeitFE11-part3-team7.github.io"
 destination: _site
 
 # Remote theme 설정
