@@ -20,7 +20,11 @@ just_the_docs:
     - text: "팀 소개"
       url: "/docs/team/"
     - text: "문서"
-      url: "/docs/"
+      children:
+        - text: "시작하기"
+          url: "/docs/getting-started/"
+    - text: "블로그"
+      url: "/blog/"
   
   # 검색 설정
   search:
