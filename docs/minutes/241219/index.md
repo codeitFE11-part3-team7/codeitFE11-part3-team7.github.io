@@ -1,7 +1,6 @@
 ---
-title: 24-12-19
-parent: minutes
-nav_order: 3
+layout: default
+title: 241219
 ---
 
 
