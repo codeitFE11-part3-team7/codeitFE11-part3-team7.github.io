@@ -34,13 +34,20 @@
     
     "relUrl": "/docs/getting-started/"
   },"5": {
+    "doc": "회의록 메인",
+    "title": "회의록 메인",
+    "content": ". | 일간 회의를 기록하는 곳 | . ",
+    "url": "/docs/minutes/",
+    
+    "relUrl": "/docs/minutes/"
+  },"6": {
     "doc": "홈",
     "title": "환영합니다!",
     "content": "이곳은 팀의 협업 공간입니다. 문서를 추가하고 내용을 업데이트하세요. ",
     "url": "/#%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4",
     
     "relUrl": "/#환영합니다"
-  },"6": {
+  },"7": {
     "doc": "홈",
     "title": "홈",
     "content": " ",
