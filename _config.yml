@@ -2,7 +2,6 @@ title: FE11 7팀
 description: GitHub Pages와 Just the Docs를 이용한 팀 협업 공간
 markdown: kramdown
 baseurl: "/codeitFE11-part3-team7.github.io"
-destination: _site
 
 # Remote theme 설정
 remote_theme: pmarsceill/just-the-docs
@@ -12,6 +11,22 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# Just the Docs 설정
+just_the_docs:
+  # 메뉴 관련 설정
+  navigation:
+    - text: "홈"
+      url: "/"
+    - text: "팀 소개"
+      url: "/docs/team/"
+    - text: "문서"
+      url: "/docs/"
+  
+  # 검색 설정
+  search:
+    enabled: true
+    provider: "local"
 
 # 기타 설정 (필요에 따라 추가)
 # 예: favicon, 로고 등
